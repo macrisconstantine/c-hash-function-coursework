@@ -1,4 +1,5 @@
 # c-hash-function-coursework
+Coursework project written in C
 ## Description
 This program does the following:
 - Takes an inputted string from a user or a file.
